@@ -117,6 +117,16 @@ To run JupyterLab from a terminal window enter `jupyter lab`, and in the top rig
 
 Version control is useful for keeping track of changes to files and projects, particularly when collaborating or sharing code. Here we will show some examples of the software Git and the online host [GitHub](https://github.com/).
 
+### Command line tools
+
+At some point the next steps might fail in which case you may need to install Apple's Command Line Tools from the Apple developer website.
+
+To do this log in or sign up here:
+
+https://developer.apple.com/download/more/
+
+Look for: "Command Line Tools for Xcode 15.x" in the list of downloads Then click the dmg and download and install.
+
 ### Git
 
 We begin by creating a local Git repository within your project folder, for example:
