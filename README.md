@@ -17,6 +17,10 @@ Install [Visual Studio Code](https://code.visualstudio.com/)</br>
 
 Install [iTerm2](https://www.iterm2.com/)</br>
 
+## Clone this repository
+
+Follow GitHub's instructions to clone this repository to your local machine.
+
 ## Setting up a virtual environment for Python
 
 Using Conda you can set up a virtual environment in which the dependencies for the specific project don't change unless you tell them to. Therefore, you can come back to the project after some time and everything should work as you left it.
